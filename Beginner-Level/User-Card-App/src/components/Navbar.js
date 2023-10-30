@@ -33,7 +33,7 @@ const Button = styled.button`
 const Navbar = ({ fetchUsers }) => {
   return (
     <Nav>
-      <Brand>Satvik Screen</Brand>
+      <Brand>Adithya Enterprises</Brand>
       <Button onClick={fetchUsers}>Get Users</Button>
     </Nav>
   );
